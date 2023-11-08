@@ -794,7 +794,7 @@ h1:nth-of-type(2){
 
     .industry-content-tu{
         height: 20vw;
-        
+        max-height: 500px;
         
     }
 }

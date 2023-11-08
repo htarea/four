@@ -230,6 +230,7 @@
         text-align: center;
         width: 60%;
         margin: 0 auto;
+        max-width: 1000px;
     }
 
     @media screen and (max-width:701px) {
@@ -241,7 +242,7 @@
 
     @media screen and (min-width:701px) {
         .tu-text > h1{
-            font-size: 4vw;
+            font-size: 3rem;
         }
 
     }
